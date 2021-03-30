@@ -83,12 +83,6 @@ Download-Rate:                5.48 MB/s
 
 ## Building
 
-Install the libssh-dev (or libssh-devel) package, version 0.6 or later:
-
-    sudo apt-get install libssh-dev
-      ...or
-    sudo yum install libssh-devel
-      ...or whatever works on your platform
       
 Install libssh package on OSX via brew
 
