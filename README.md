@@ -89,6 +89,10 @@ Install the libssh-dev (or libssh-devel) package, version 0.6 or later:
       ...or
     sudo yum install libssh-devel
       ...or whatever works on your platform
+      
+Install libssh package on OSX via brew
+
+    brew install libssh
 
 From the main directory (where this README.md file is located), run 'make':
 
